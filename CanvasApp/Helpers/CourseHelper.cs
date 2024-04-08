@@ -19,9 +19,9 @@ namespace CanvasApp.Helpers
 
         public void CreateCourseRecord(Course? selectedCourse = null)
         {
-            Console.WriteLine("What is the code of the student");
+            Console.WriteLine("What is the code of the course");
             var code = Console.ReadLine() ?? string.Empty;
-            Console.WriteLine("What is the name of the student?");
+            Console.WriteLine("What is the name of the course?");
             var name = Console.ReadLine() ?? string.Empty;
             Console.WriteLine("what is the description of the course? ");
             var description = Console.ReadLine() ?? string.Empty;

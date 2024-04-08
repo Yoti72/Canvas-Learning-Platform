@@ -1,0 +1,11 @@
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/bin/Debug/net8.0/Library.CanvasApp.deps.json
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/bin/Debug/net8.0/Library.CanvasApp.dll
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/bin/Debug/net8.0/Library.CanvasApp.pdb
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.AssemblyInfoInputs.cache
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.AssemblyInfo.cs
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.csproj.CoreCompileInputs.cache
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.dll
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/refint/Library.CanvasApp.dll
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/Library.CanvasApp.pdb
+/Users/yoti/Desktop/Coding/Canvas-COP/Library.CanvasApp/obj/Debug/net8.0/ref/Library.CanvasApp.dll

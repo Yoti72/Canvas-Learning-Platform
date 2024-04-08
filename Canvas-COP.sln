@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasApp", "CanvasApp\CanvasApp.csproj", "{F62F9F92-C560-465F-AFD4-82B668E8E72D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.CanvasApp", "Library.CanvasApp\Library.CanvasApp.csproj", "{50BACCB2-AA4D-4525-ACBA-F86821CBF903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.Canvas", "Maui.Canvas\Maui.Canvas.csproj", "{8A3CF767-5A10-478A-851E-856A77A7491B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,9 @@ Global
 		{F62F9F92-C560-465F-AFD4-82B668E8E72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62F9F92-C560-465F-AFD4-82B668E8E72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62F9F92-C560-465F-AFD4-82B668E8E72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3CF767-5A10-478A-851E-856A77A7491B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3CF767-5A10-478A-851E-856A77A7491B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3CF767-5A10-478A-851E-856A77A7491B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3CF767-5A10-478A-851E-856A77A7491B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

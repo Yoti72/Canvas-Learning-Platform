@@ -19,6 +19,7 @@ namespace CanvasApp
            
             while (cont)
             {
+                
                 Console.WriteLine("Choose an action:");
                 Console.WriteLine("1. Add a student");
                 Console.WriteLine("2. Update a student");
