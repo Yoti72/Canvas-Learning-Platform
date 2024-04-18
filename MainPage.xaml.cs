@@ -9,14 +9,14 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
-	private void Projects_View_Clicked(object sender, EventArgs e)
+	private void Courses_View_Clicked(object sender, EventArgs e)
 	{
-		Shell.Current.GoToAsync("//Projects");
+		Shell.Current.GoToAsync("//Courses");
 	}
 
-	private void Clients_View_Clicked(object sender, EventArgs e)
+	private void Students_View_Clicked(object sender, EventArgs e)
 	{
-		Shell.Current.GoToAsync("//Clients");	
+		Shell.Current.GoToAsync("//Students");	
 	}
 
 

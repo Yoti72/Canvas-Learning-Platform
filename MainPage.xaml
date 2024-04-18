@@ -8,8 +8,8 @@
             Padding="30,0"
             Spacing="25">
 
-            <Button Text="Student View" Clicked="Projects_View_Clicked"/>
-            <Button Text="Teacher View" Clicked="Clients_View_Clicked"/>
+            <Button Text="Course View" Clicked="Courses_View_Clicked"/>
+            <Button Text="Student View" Clicked="Students_View_Clicked"/>
         </VerticalStackLayout>
             <!--<Image
                 Source="dotnet_bot.png"

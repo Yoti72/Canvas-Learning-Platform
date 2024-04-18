@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Maui.Canvas.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Maui.Canvas"
+    xmlns:local2="clr-namespace:Maui.Canvas.views"
+    xmlns:local3="clr-namespace:Maui.Canvas.dialogs"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Maui.Canvas">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Students"
+        ContentTemplate="{DataTemplate local2:StudentsView}"
+        Route="Students" />
+    <ShellContent
+        Title="Students Detail"
+        ContentTemplate="{DataTemplate local3:StudentDialog}"
+        Route="StudentDetail" />
+    <ShellContent
+        Title="Courses"
+        ContentTemplate="{DataTemplate local2:CoursesView}"
+        Route="Courses" />
+</Shell>
